@@ -1,3 +1,9 @@
+> 结合UnblockNeteaseMusic：https://github.com/nondanee/UnblockNeteaseMusic
+，修改默认歌单为周杰伦最全演唱正序集：https://music.163.com/#/playlist?id=120213287
+，以下为原项目介绍：
+
+
+
 MKOnlineMusicPlayer
 ========
 MKOnlineMusicPlayer 是一款开源的基于 `Meting` 的在线音乐播放器。具有音乐搜索、播放、下载、歌词同步显示、个人网易云音乐播放列表同步等功能。
