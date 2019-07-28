@@ -22,7 +22,10 @@ class Meting
     public $status;
 
     public $server;
-    public $proxy = null;
+    // ********************************************
+    // 修改添加破版权代理：https://github.com/nondanee/UnblockNeteaseMusic
+    // ********************************************
+    public $proxy = "127.0.0.1: 6576";
     public $format = false;
     public $header;
 
